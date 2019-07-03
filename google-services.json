@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1050532013405",
+    "firebase_url": "https://starting-be14c.firebaseio.com",
+    "project_id": "starting-be14c",
+    "storage_bucket": "starting-be14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050532013405:android:438c8d4b9d286b31",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidpayexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050532013405-giro9s2ofd1r6q6lonqcqea62fe8gtss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcOsl-8R5g_9v_WzgmTnymgtO7xKDzag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
